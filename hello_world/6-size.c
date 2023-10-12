@@ -3,7 +3,7 @@
 
 /**
  * main - Printing the size and compiled to run
- * Return: Always 0.
+ * Return: Always 0 (Success)
  */
 
 int main(void)
