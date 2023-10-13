@@ -1,4 +1,4 @@
-include<stdio.h>
+#include<stdio.h>
 /**
  * main - Prints exactly a line followed by a line and 
  * standard error
