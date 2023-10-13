@@ -2,7 +2,7 @@
 #include<unistd.h>
 /**
  * main - Prints exactly a line followed by a line and standard error
- * Return: 1 (Success)
+ * Return: Always 1
  */
 int main(void)
 {
