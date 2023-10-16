@@ -6,11 +6,11 @@
 int main(void)
 {
 	putchar(48);
-	for (int c = 1; c < 10; c++) 
+	for (int c = 1; c < 10; c++)
 	{
 		putchar(44);
 		putchar(c + 48);
 	}
-	putchart(10);
+	putchar(10);
 	return (0);
 }
