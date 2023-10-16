@@ -6,9 +6,11 @@
  */
 int main(void)
 {
-	int c;
-
-	for (c = 1; c < 10; c++)
+	for (int c = 1; c < 9; c++)
+	{
+		printf(%d, c);
+	}
+	printf("\n");
 	
 		return (0);
 }
