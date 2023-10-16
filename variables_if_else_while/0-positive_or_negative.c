@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <time.h>
+#include <stdlib.h>
 /**
  * main - Positive or negative task to learn how to use if and else
  * Return: Always 0 (Success)
