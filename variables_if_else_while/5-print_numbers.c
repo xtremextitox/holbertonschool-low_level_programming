@@ -8,7 +8,7 @@ int main(void)
 {
 	for (int c = 1; c < 9; c++)
 	{
-		printf(%d, c);
+		printf("%d", c);
 	}
 	printf("\n");
 	
