@@ -5,7 +5,6 @@
  */
 int main(void)
 {
-	_putchar('a' <= 'z')
-		_putchar('\n');
+	print_alphabet();
 	return (0);
 }
