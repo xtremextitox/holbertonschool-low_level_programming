@@ -5,8 +5,7 @@
  */
 int main(void)
 {
-	int c;
-	_putchar(c = 'a'; c <= 'z'; c++)
+	_putchar('a' <= 'z')
 		_putchar('\n');
 	return (0);
 }
